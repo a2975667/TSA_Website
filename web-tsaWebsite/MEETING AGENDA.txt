@@ -1,0 +1,26 @@
+MEETING AGENDA
+
+In order to improve our skills, each member should be responsible to keep track of your own progress and all findings related to your assigned job. Prior to the meeting, you are required to prepare a brief sharing session on your work for the sake of enhancing your own understanding of the topics and inspiring other members with new materials which are essential to web development but may not pop up in other members' tasks. Therefore, as the project is divided into individual works, we expect all members to be packed with well-rounded skills and knowledge to work on similar projects themselves upon completion of the website. Presentation skills will also be reinforced while sharing your knowledge*.
+
+Meeting Agenda:
+
+- Presentation
+    - Each member should share:
+        - your assigned job
+        - your accomplishment
+        - technical details (codes, alternative implementations, or best practice…)
+        - your study on programming languages [optional]**
+        - your research on interesting topics [optional]
+        - discussion and Q&A
+    - Overall progress
+- Amendments on completed items
+    - Discuss:
+        - functions with bad implementation
+        - functions with bad UI/UX design
+        - functions that fails to meet expectations
+- Suggestions on new functions
+- Job Assignment
+
+*You are encouraged to apply all sorts of media to illustrate your thoughts, e.g., codes, slides, images, excerpt of websites… .
+
+**Sharing on your individual study may help raising curiosity of other members and they might also give comments to your learning experience.

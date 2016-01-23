@@ -1,0 +1,14 @@
+ footer{
+    position: relative;
+    bottom: 0;
+    background-color: #e6e6e6;
+    height: 100px;
+  }
+  .footer-logo{
+  	opacity: .8;
+  	display: block;
+  	position:absolute;
+  	top: 30px;
+  	right: 50px;
+   	max-height: 40px;
+  }
